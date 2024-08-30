@@ -1,0 +1,201 @@
+[
+    {
+        "group": "Scroll",
+        "text": "The fridge is broken",
+        "option1": "Wait for next week",
+        "option2": "Look for the problem",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "You have found the problem: the scroll is broken",
+        "option1": "Wait for next week",
+        "option2": "Contact Bluefors",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "Scroll",
+        "text": "Bluefors has answered: they need more information",
+        "option1": "Wait for next week",
+        "option2": "Send the information",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "Bluefors has answered: you need to remove the scroll and do the mainteneance",
+        "option1": "Wait for next week",
+        "option2": "Check the manual for the procedure",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "You need to order the maintenance kit for the scroll",
+        "option1": "Wait for next week",
+        "option2": "Buy and wait for it to arrive",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 15
+    },
+    {
+        "group": "Scroll",
+        "text": "The maintenance kit has arrived",
+        "option1": "Wait for next week",
+        "option2": "Remove the scroll",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "While you where removing the scroll, you found a lot of powder",
+        "option1": "Wait for next week",
+        "option2": "Check and remove the filter",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "You have removed the filter and the pump",
+        "option1": "Wait for next week",
+        "option2": "Clean the filter and the pump",
+        "duration": 7,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "The filter must be changed",
+        "option1": "Wait for next week",
+        "option2": "Search for the right filter",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "You couldn't find the correct filter: contact Bluefors and ask for help",
+        "option1": "Wait for next week",
+        "option2": "Contact Bluefors",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "Scroll",
+        "text": "Bluefors has answered: you can sell you the right filter",
+        "option1": "Wait for next week",
+        "option2": "Ask for the quote",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 4
+    },
+    {
+        "group": "Scroll",
+        "text": "You have received the quote",
+        "option1": "Wait for next week",
+        "option2": "Agree with Ulrik and buy the filter",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "Scroll",
+        "text": "The filter has arrived",
+        "option1": "Wait for next week",
+        "option2": "Finish cleaning the scrool and install the filter",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "The scroll and the filter are ready",
+        "option1": "Wait for next week",
+        "option2": "Reassemble the circuit",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "Everything is back in place",
+        "option1": "Wait for next week",
+        "option2": "Ask Brian(?) to borrow the leak detector",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "Scroll",
+        "text": "Brian aswered: he can borrow you the leak detector",
+        "option1": "Wait for next week",
+        "option2": "Fix the day and check for leaks",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "The system is fine again. Everything is ready for the next cooldown",
+        "option1": "Wait for next week",
+        "option2": "Start the cooldown",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 3
+    },
+    
+    {
+        "group": "Valve",
+        "text": "The valve is broken",
+        "option1": "Wait for next week",
+        "option2": "Contact Bluefors",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "Valve",
+        "text": "Bluefors has answered",
+        "option1": "Wait for next week",
+        "option2": "Look for a new valve",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Valve",
+        "text": "You have to order the new valve",
+        "option1": "Wait for next week",
+        "option2": "Buy and wait for it to arrive",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 15
+    },
+    {
+        "group": "Valve",
+        "text": "The valve has arrived",
+        "option1": "Wait for next week",
+        "option2": "Install the valve",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Valve",
+        "text": "The system is fine again. Everything is ready for the next cooldown",
+        "option1": "Wait for next week",
+        "option2": "Start the cooldown!",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 3
+    }
+]

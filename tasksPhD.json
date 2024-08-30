@@ -1,0 +1,147 @@
+[
+    
+    {
+        "group": "conference",
+        "text": "There is an interesting conference coming up. Are you going to attend it?",
+        "option1": "Skip this conference",
+        "option2": "Propose the conference to your supervisor",
+        "duration": 1,
+        "wait1": 30,
+        "wait2": 7
+    },
+    {
+        "group": "conference",
+        "text": "Your supervisor has agreed to you attending the conference",
+        "option1": "Wait until next week",
+        "option2": "Register for the conference and book accomodation",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "conference",
+        "text": "You have to prepare a poster for your next conference",
+        "option1": "Wait until next week",
+        "option2": "Work on the poster",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "conference",
+        "text": "The conference is coming up. Are you ready?",
+        "option1": "Wait until next week",
+        "option2": "Partecipate in the conference",
+        "duration": 7,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "conference",
+        "text": "You're back from the conference and your supervisor wants to have a report about it",
+        "option1": "Wait until next week",
+        "option2": "Prepare the report",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 7
+    },
+    {
+        "group": "conference",
+        "text": "The presentation is ready",
+        "option1": "Wait until next week",
+        "option2": "Present the report to your supervisor",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 30
+    },
+    {
+        "group": "external",
+        "text": "Are you ready to go in external stay?",
+        "option1": "Wait for next semester",
+        "option2": "Start organizing the external stay",
+        "duration": 2,
+        "wait1": 250,
+        "wait2": 7
+    },
+    {
+        "group": "external",
+        "text": "You have found a place for the external stay",
+        "option1": "Wait until next week",
+        "option2": "Convince your supervisor",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 7
+    },
+    {
+        "group": "external",
+        "text": "Your supervisor has agreed",
+        "option1": "Wait until next week",
+        "option2": "Organize accomodation and travel",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "external",
+        "text": "Everything is ready for the external stay",
+        "option1": "Wait until next month",
+        "option2": "Go in external stay",
+        "duration": 45,
+        "wait1": 30,
+        "wait2": 0
+    },
+    {
+        "group": "conference2",
+        "text": "There is an interesting conference coming up. Are you going to attend it?",
+        "option1": "Skip this conference",
+        "option2": "Propose the conference to your supervisor",
+        "duration": 1,
+        "wait1": 30,
+        "wait2": 7
+    },
+    {
+        "group": "conference2",
+        "text": "Your supervisor has agreed to you attending the conference",
+        "option1": "Wait until next week",
+        "option2": "Register for the conference and book accomodation",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "conference2",
+        "text": "You have to prepare a poster for your next conference",
+        "option1": "Wait until next week",
+        "option2": "Work on the poster",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "conference2",
+        "text": "The conference is coming up. Are you ready?",
+        "option1": "Wait until next week",
+        "option2": "Partecipate in the conference",
+        "duration": 7,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "conference2",
+        "text": "You're back from the conference and your supervisor wants to have a report about it",
+        "option1": "Wait until next week",
+        "option2": "Prepare the report",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 7
+    },
+    {
+        "group": "conference2",
+        "text": "The presentation is ready",
+        "option1": "Wait until next week",
+        "option2": "Present the report to your supervisor",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 30
+    }
+]

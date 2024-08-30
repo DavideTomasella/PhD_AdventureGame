@@ -1,0 +1,47 @@
+[
+    {
+        "group": "nothing",
+        "text": "Today is a good day. Nothing happened",
+        "option1": "Enjoy life",
+        "option2": "Enjoy life",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
+        "text": "You don't have any tasks today.",
+        "option1": "Enjoy life",
+        "option2": "Enjoy life",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
+        "text": "Nothing to do, but it's raining outside.",
+        "option1": "Complain about the weather",
+        "option2": "Enjoy life",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
+        "text": "You have a day off. Enjoy it!",
+        "option1": "Enjoy life",
+        "option2": "Enjoy life",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
+        "text": "Every project meeting day is a good day",
+        "option1": "Enjoy life",
+        "option2": "Stress about the meeting",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    }
+]
