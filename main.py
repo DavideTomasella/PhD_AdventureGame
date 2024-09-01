@@ -1,14 +1,14 @@
-from PyQt5.QtWidgets import QApplication, QMainWindow, QDesktopWidget, QPushButton, QTextEdit
-from PyQt5.QtWidgets import QVBoxLayout, QHBoxLayout, QSpacerItem, QSizePolicy, QWidget
+from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QTextEdit
+from PyQt5 import QtGui, uic
 from game import Game
 from text_producer import TextProducer
-from PyQt5 import uic
 
 class MainUI(QMainWindow):
     def __init__(self):
         super(QMainWindow,self).__init__()
         self.game = Game()
         uic.loadUi('./main.ui', self)
+        self.setWindowIcon(QtGui.QIcon("./resources/icon.png"))
         self.connectEvents()
 
         self.show()

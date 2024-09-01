@@ -31,8 +31,17 @@
   <property name="windowTitle">
    <string>A PhD's adventure game</string>
   </property>
+  <property name="windowIcon">
+   <iconset theme="user-away"/>
+  </property>
   <property name="styleSheet">
    <string notr="true">background-image:url(resources/bkg_1.jpg)</string>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>24</width>
+    <height>24</height>
+   </size>
   </property>
   <property name="unifiedTitleAndToolBarOnMac">
    <bool>true</bool>
