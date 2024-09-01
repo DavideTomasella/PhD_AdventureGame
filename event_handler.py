@@ -47,12 +47,18 @@ class EventBase(ABC):
 
     def __lt__(self, other : 'EventBase'):
         return self.duration < other.duration
+    
+    def __repr__(self) -> str:
+        return self().__str__()
+    def __str__(self) -> str:
+        return self.text
         
 class EventNothing(EventBase):
     _listTasks : list[dict] = json.load(open("tasksNothing.json"))
 
-    def __init__(self):
+    def __init__(self, duration = 1):
         super().__init__(EventBase.EventType.NOTHING, **EventNothing._listTasks[randint(0, len(EventNothing._listTasks)-1)])
+        self.duration = duration
     
     def selectOption1(self):
         return EventNothing()
