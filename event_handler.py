@@ -2,6 +2,14 @@ from abc import ABC, abstractmethod
 from enum import Enum
 import json
 from random import randint
+import os, sys
+
+def resource(relative_path):
+    base_path = getattr(
+        sys,
+        '_MEIPASS',
+        os.path.dirname(os.path.abspath(__file__)))
+    return os.path.join(base_path, relative_path)
 
 class EventBase(ABC):
     class EventType(Enum):
@@ -54,7 +62,7 @@ class EventBase(ABC):
         return self.text
         
 class EventNothing(EventBase):
-    _listTasks : list[dict] = json.load(open("resources/tasksNothing.json"))
+    _listTasks : list[dict] = json.load(open(resource("./resources/tasksNothing.json")))
 
     def __init__(self, duration = 1):
         super().__init__(EventBase.EventType.NOTHING, **EventNothing._listTasks[randint(0, len(EventNothing._listTasks)-1)])
@@ -68,7 +76,7 @@ class EventNothing(EventBase):
 
 class EventFridge(EventBase):
     #read from json file
-    _listTasks : list[dict] = json.load(open("resources/tasksFridge.json"))
+    _listTasks : list[dict] = json.load(open(resource("./resources/tasksFridge.json")))
 
     _progressFridge = 0
 
@@ -91,7 +99,7 @@ class EventFridge(EventBase):
         return EventFridge()
         
 class EventCourse(EventBase):
-    _listTasks : list[dict] = json.load(open("resources/tasksCourse.json"))
+    _listTasks : list[dict] = json.load(open(resource("./resources/tasksCourse.json")))
 
     _progressCourse = 0
 
@@ -114,7 +122,7 @@ class EventCourse(EventBase):
         return EventCourse()
     
 class EventPhd(EventBase):
-    _listTasks : list[dict] = json.load(open("resources/tasksPhd.json"))
+    _listTasks : list[dict] = json.load(open(resource("./resources/tasksPhd.json")))
 
     _progressPhd = 0
 

@@ -35,7 +35,7 @@
    <iconset theme="user-away"/>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-image:url(resources/bkg_1.jpg)</string>
+   <string notr="true">background-image:url(resources/bkg_1_small.jpg)</string>
   </property>
   <property name="iconSize">
    <size>
@@ -47,9 +47,6 @@
    <bool>true</bool>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <property name="styleSheet">
-    <string notr="true">background-color:&quot;./bkg_1_small.jpg&quot;</string>
-   </property>
    <widget class="QWidget" name="verticalLayoutWidget">
     <property name="geometry">
      <rect>

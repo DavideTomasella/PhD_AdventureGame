@@ -2,16 +2,25 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QTextEdit
 from PyQt5 import QtGui, uic
 from game import Game
 from text_producer import TextProducer
+import os, sys
+
+def resource(relative_path):
+    base_path = getattr(
+        sys,
+        '_MEIPASS',
+        os.path.dirname(os.path.abspath(__file__)))
+    return os.path.join(base_path, relative_path)
 
 class MainUI(QMainWindow):
     def __init__(self):
         super(QMainWindow,self).__init__()
-        self.game = Game()
-        uic.loadUi('./resources/main.ui', self)
-        self.setWindowIcon(QtGui.QIcon("./resources/icon.ico"))
+        uic.loadUi(resource('./resources/main.ui'), self)#background-image:url(resources/bkg_1_small.jpg)
+        self.setWindowIcon(QtGui.QIcon(resource("./resources/icon.ico").replace("\\","/")))
+        self.setStyleSheet("background-image:url(\""+resource("resources/bkg_1_small.jpg").replace("\\","/")+"\");")
         self.connectEvents()
 
         self.show()
+        self.game = Game()
         self.start_game_and_update_gui()
 
     def connectEvents(self):
