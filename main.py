@@ -7,8 +7,8 @@ class MainUI(QMainWindow):
     def __init__(self):
         super(QMainWindow,self).__init__()
         self.game = Game()
-        uic.loadUi('./main.ui', self)
-        self.setWindowIcon(QtGui.QIcon("./resources/icon.png"))
+        uic.loadUi('./resources/main.ui', self)
+        self.setWindowIcon(QtGui.QIcon("./resources/icon.ico"))
         self.connectEvents()
 
         self.show()
@@ -50,7 +50,7 @@ class MainUI(QMainWindow):
         self.textAreaProducer.text = self.game.advance_game(2)
         self.stop_game_and_update_gui()
 
-if __name__ == '__main__':
-    app = QApplication([])
-    window = MainUI()
-    exit(app.exec_())
+#if __name__ == '__main__':
+app = QApplication([])
+window = MainUI()
+app.exec()

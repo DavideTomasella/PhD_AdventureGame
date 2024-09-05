@@ -1,3 +1,4 @@
 __pycache__
-resources/bkg_1.jpg
-resources/bkg_2.jpg
+old/
+dist/
+build/

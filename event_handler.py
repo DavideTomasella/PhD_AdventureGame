@@ -54,7 +54,7 @@ class EventBase(ABC):
         return self.text
         
 class EventNothing(EventBase):
-    _listTasks : list[dict] = json.load(open("tasksNothing.json"))
+    _listTasks : list[dict] = json.load(open("resources/tasksNothing.json"))
 
     def __init__(self, duration = 1):
         super().__init__(EventBase.EventType.NOTHING, **EventNothing._listTasks[randint(0, len(EventNothing._listTasks)-1)])
@@ -68,7 +68,7 @@ class EventNothing(EventBase):
 
 class EventFridge(EventBase):
     #read from json file
-    _listTasks : list[dict] = json.load(open("tasksFridge.json"))
+    _listTasks : list[dict] = json.load(open("resources/tasksFridge.json"))
 
     _progressFridge = 0
 
@@ -91,7 +91,7 @@ class EventFridge(EventBase):
         return EventFridge()
         
 class EventCourse(EventBase):
-    _listTasks : list[dict] = json.load(open("tasksCourse.json"))
+    _listTasks : list[dict] = json.load(open("resources/tasksCourse.json"))
 
     _progressCourse = 0
 
@@ -114,7 +114,7 @@ class EventCourse(EventBase):
         return EventCourse()
     
 class EventPhd(EventBase):
-    _listTasks : list[dict] = json.load(open("tasksPhd.json"))
+    _listTasks : list[dict] = json.load(open("resources/tasksPhd.json"))
 
     _progressPhd = 0
 
