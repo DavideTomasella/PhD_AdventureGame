@@ -1,27 +1,27 @@
 [
     {
         "group": "nothing",
-        "text": "Today is a good day. Nothing happened",
-        "option1": "Enjoy life",
-        "option2": "Enjoy life",
+        "text": "Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?",
+        "option1": "Enjoy life.",
+        "option2": "Enjoy life.",
         "duration": 1,
         "wait1": 0,
         "wait2": 0
     },
     {
         "group": "nothing",
-        "text": "You don't have any tasks today.",
-        "option1": "Enjoy life",
-        "option2": "Enjoy life",
+        "text": "Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?",
+        "option1": "Enjoy the small break at home.",
+        "option2": "Plan for a day trip in Sweden.",
         "duration": 1,
         "wait1": 0,
         "wait2": 0
     },
     {
         "group": "nothing",
-        "text": "Nothing to do, but it's raining outside.",
-        "option1": "Complain about the weather",
-        "option2": "Enjoy life",
+        "text": "Today, there is nothing to do in the office, but it's raining outside, and the wind is above 50km/h, and you feel like life is tough.",
+        "option1": "Complain about the weather with your family and friends.",
+        "option2": "Watch YouTube videos of people complaing about the Danish weather.",
         "duration": 1,
         "wait1": 0,
         "wait2": 0
@@ -29,17 +29,26 @@
     {
         "group": "nothing",
         "text": "You have a day off. Enjoy it!",
-        "option1": "Enjoy life",
-        "option2": "Enjoy life",
+        "option1": "Enjoy life.",
+        "option2": "Enjoy life.",
         "duration": 1,
         "wait1": 0,
         "wait2": 0
     },
     {
         "group": "nothing",
-        "text": "Every project meeting day is a good day",
-        "option1": "Enjoy life",
-        "option2": "Stress about the meeting",
+        "text": "Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?",
+        "option1": "\"Ulrik is a nice guy, he will understand.\" (ChatGPT, 2024)",
+        "option2": "Stress about the meeting.",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
+        "text": "Have you remembered to water the plants in the office? They are looking a bit sad.",
+        "option1": "\"Water the plants. They are your only friends.\" (ChatGPT, 2024)",
+        "option2": "Look at the plants slowly withering away since they remind you of your own life.",
         "duration": 1,
         "wait1": 0,
         "wait2": 0

@@ -1,9 +1,9 @@
 [
     {
         "group": "course",
-        "text": "You are starting your PhD, you need to study what your project is about",
-        "option1": "Oh no, I'm already missing my old life",
-        "option2": "Study hard so your supervisor will be proud of you",
+        "text": "You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and ",
+        "option1": "Oh no, I'm already missing my old life, let me enjoy my freedom a bit more.",
+        "option2": "Study hard so you can impress your supervisor during the next meeting.",
         "duration": 5,
         "wait1": 5,
         "wait2": 30
