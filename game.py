@@ -34,7 +34,7 @@ class Game:
     def init_queue(self):
         heapq.heappush(self.event_queue, (1, EventCourse()))
         heapq.heappush(self.event_queue, (10, EventFridge()))
-        heapq.heappush(self.event_queue, (20, EventPhd()))
+        heapq.heappush(self.event_queue, (15, EventPhd()))
 
     def advance_game(self, choice):
         self.process_previous_day_choice(choice)
@@ -75,6 +75,7 @@ class Game:
             self.add_to_print()
             self.add_to_print(f"Accept task ({self.current_event.duration} days):")
             self.add_to_print(f"{self.current_event.option1}")
+            self.add_to_print()
             self.add_to_print(f"Reschedule task ({self.current_event.duration} days):")
             self.add_to_print(f"{self.current_event.option2}")
         else:
@@ -84,6 +85,7 @@ class Game:
             self.add_to_print()
             self.add_to_print(f"Accept task ({self.current_event.duration} days):")
             self.add_to_print(f"{self.current_event.option2}")
+            self.add_to_print()
             self.add_to_print(f"Reschedule task:")
             alt_message = f"{self.current_event.option1}"
             if len(self.event_queue):

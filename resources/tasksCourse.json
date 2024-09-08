@@ -7,11 +7,12 @@
         "duration": 5,
         "wait1": 5,
         "wait2": 10
-    },{
+    },
+    {
         "group": "course",
-        "text": "During your PhD, your project isn't the only task - you have to attend some courses, and prepare for some activities.",
+        "text": "During your PhD, your project isn't the only task - you have to attend some courses, and prepare for some activities. During the last chat with your friends, you found a simple course that you could attend to get some easy ECTS... ehm,... I mean, to improve your knowledge and refine your theoretical skills in Quantum Optomechanics.",
         "option1": "I don't have time for courses. I need to focus on my project.",
-        "option2": "Sign up for the next course: the sooner I finish them, the sooner I can focus on your project.",
+        "option2": "Sign up for the next course: the sooner I finish them, the sooner I can go back working on your project.",
         "duration": 1,
         "wait1": 30,
         "wait2": 15
@@ -48,7 +49,7 @@
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 4/6.",
-        "duration": 1,
+        "duration": 2,
         "wait1": 0,
         "wait2": 7
     },
@@ -57,7 +58,7 @@
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 5/6.",
-        "duration": 1,
+        "duration": 2,
         "wait1": 0,
         "wait2": 7
     },
@@ -66,10 +67,11 @@
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 6/6.",
-        "duration": 1,
+        "duration": 2,
         "wait1": 0,
-        "wait2": 7
-    },{
+        "wait2": 15
+    },
+    {
         "group": "bootcamp",
         "text": "After starting your PhD, it's finally time for Physics PhD bootcamp! This is the best opportunity for meeting other PhD students and present your project to them.",
         "option1": "Enjoy life - you aren't in a hurry.",
@@ -128,7 +130,7 @@
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 4/6.",
-        "duration": 1,
+        "duration": 2,
         "wait1": 0,
         "wait2": 7
     },
@@ -137,7 +139,7 @@
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 5/6.",
-        "duration": 1,
+        "duration": 2,
         "wait1": 0,
         "wait2": 7
     },
@@ -146,7 +148,7 @@
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 6/6.",
-        "duration": 1,
+        "duration": 2,
         "wait1": 0,
         "wait2": 7
     }

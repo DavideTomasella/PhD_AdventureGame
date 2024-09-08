@@ -1,58 +1,173 @@
 [
-    
+    {
+        "group": "ta",
+        "text": "Another important part of your PhD is helping the departing in saving some money. In the next months, you'll be involved in helping the professors in their teaching.",
+        "option1": "\"Why can't they save their own money? I have a PhD to finish!\" (ChatGPT, 2024)",
+        "option2": "That's great! It's a good opportunity to learn more about teaching and improve my soft skills.",
+        "duration": 5,
+        "wait1": 5,
+        "wait2": 10
+    },{
+        "group": "ta",
+        "text": "It's already time for the course you're TAing. Are you ready?",
+        "option1": "I don't have time for teaching. I need to focus on my project.",
+        "option2": "Prepare the material and help the students during the lecture 1/6.",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 7
+    },
+    {
+        "group": "ta",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 2/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 3/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 4/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 5/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta",
+        "text": "It's time for your next lecture.",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 6/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
     {
         "group": "conference",
-        "text": "There is an interesting conference coming up. Are you going to attend it?",
-        "option1": "Skip this conference",
-        "option2": "Propose the conference to your supervisor",
+        "text": "While you were browing through your email, you found an interesting conference coming up. Are you going to attend it?",
+        "option1": "Skip this conference. I'm so busy - how can people manage this life?",
+        "option2": "Sure! It's finally my chance to get to know other researchers in my field and present myself. Propose the conference to your supervisor during the next meeting.",
         "duration": 1,
         "wait1": 30,
         "wait2": 7
     },
     {
         "group": "conference",
-        "text": "Your supervisor has agreed to you attending the conference",
-        "option1": "Wait until next week",
-        "option2": "Register for the conference and book accomodation",
-        "duration": 2,
+        "text": "Great news! Your supervisor has agreed to you attending the conference.",
+        "option1": "Oh no, I really don't understand how to use CWT. Fortunately, I'm not the only one going to this conference. Let's wait for them to show me how to book my flight and accomodation.",
+        "option2": "Spend the next days preparing for the conference. Registration, flight and accomodation booking,... there is a lot to do!",
+        "duration": 3,
         "wait1": 7,
         "wait2": 2
     },
     {
         "group": "conference",
-        "text": "You have to prepare a poster for your next conference",
-        "option1": "Wait until next week",
-        "option2": "Work on the poster",
-        "duration": 3,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "conference",
-        "text": "The conference is coming up. Are you ready?",
-        "option1": "Wait until next week",
-        "option2": "Partecipate in the conference",
+        "text": "The conference is coming up. You managed to prepare all the documents in time. Are you ready?",
+        "option1": "Wait until next week.",
+        "option2": "Of course!",
         "duration": 7,
         "wait1": 7,
         "wait2": 0
     },
     {
         "group": "conference",
-        "text": "You're back from the conference and your supervisor wants to have a report about it",
-        "option1": "Wait until next week",
-        "option2": "Prepare the report",
+        "text": "You're back from the conference - it was a great experience and you cannot wait to tell your supervisor and your collegue about the latest results from the other research groups. However, there is something more important to prepare: the Fusion expense report!",
+        "option1": "Ok... I never used Fusion before... I don't have time to learn about it now. I'll ask help from Alex... I'm sure he'll explain it to me.",
+        "option2": "It's good that I'm prepared for this! I kept all the receipts, and because of my luck, Fusion won't have any bugs this time.",
+        "duration": 2,
+        "wait1": 7,
+        "wait2": 2
+    },
+    {
+        "group": "conference",
+        "text": "Since you're back from the conference, you haven't progress much in your project.",
+        "option1": "I can still work during the weekend to catch up with the delay.",
+        "option2": "This is the perfect chance to present the results from the conference and show how they are useful for my project.",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "retreat",
+        "text": "The best moment of the year is finally arrived. It isn't Christmas or the Summer holidays, it's time for the annual QPIT retreat. [Add some meta comments about the retreat]",
+        "option1": "Well, the location is nice, the food is great, and the weather is the Danish one - the perfect atmosphere for some hygge!",
+        "option2": "Finally! I have an increadible idea for a game about my PhD project. I'm sure everyone will enjoy clicking a button for 1000 times!",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 20
+    },
+    {
+        "group": "ta2",
+        "text": "It's already time for the course you're TAing. Are you ready?",
+        "option1": "I don't have time for teaching. I need to focus on my project.",
+        "option2": "Prepare the material and help the students during the lecture 1/6.",
         "duration": 2,
         "wait1": 7,
         "wait2": 7
     },
     {
-        "group": "conference",
-        "text": "The presentation is ready",
-        "option1": "Wait until next week",
-        "option2": "Present the report to your supervisor",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 30
+        "group": "ta2",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 2/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta2",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 3/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta2",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 4/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta2",
+        "text": "It's time for your next TA.",
+        "option1": "Skip the class.",
+        "option2": "Prepare the material and help the students during the lecture 5/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "ta2",
+        "text": "It's time for your next lecture.",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 6/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
     },
     {
         "group": "external",
@@ -92,55 +207,37 @@
     },
     {
         "group": "conference2",
-        "text": "There is an interesting conference coming up. Are you going to attend it?",
-        "option1": "Skip this conference",
-        "option2": "Propose the conference to your supervisor",
-        "duration": 1,
-        "wait1": 30,
-        "wait2": 7
-    },
-    {
-        "group": "conference2",
-        "text": "Your supervisor has agreed to you attending the conference",
-        "option1": "Wait until next week",
-        "option2": "Register for the conference and book accomodation",
+        "text": "It's already been a while since you started your PhD, and it's finally time for the Gordon Research Conference (California) you are planning to attend.",
+        "option1": "The conference is coming, but I still don't have any results to present.",
+        "option2": "Register for the conference and book the accomodation.",
         "duration": 2,
-        "wait1": 7,
+        "wait1": 30,
         "wait2": 2
     },
     {
         "group": "conference2",
-        "text": "You have to prepare a poster for your next conference",
-        "option1": "Wait until next week",
-        "option2": "Work on the poster",
-        "duration": 3,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "conference2",
-        "text": "The conference is coming up. Are you ready?",
-        "option1": "Wait until next week",
-        "option2": "Partecipate in the conference",
+        "text": "During the next conference you're planning to present your ground-breaking results. Now, it's time to work on a nice poster to bring with you.",
+        "option1": "I never prepared a poster before. I don't have time to learn how to do it now.",
+        "option2": "Work on the poster for the next week.",
         "duration": 7,
         "wait1": 7,
         "wait2": 0
     },
     {
         "group": "conference2",
-        "text": "You're back from the conference and your supervisor wants to have a report about it",
-        "option1": "Wait until next week",
-        "option2": "Prepare the report",
-        "duration": 2,
+        "text": "The conference is coming up. Are you ready?",
+        "option1": "Wait until next week.",
+        "option2": "Yes. Partecipate in the conference.",
+        "duration": 7,
         "wait1": 7,
-        "wait2": 7
+        "wait2": 0
     },
     {
         "group": "conference2",
-        "text": "The presentation is ready",
-        "option1": "Wait until next week",
-        "option2": "Present the report to your supervisor",
-        "duration": 1,
+        "text": "You're back from the conference and you absolutely need to show your supervisor what you learned. Well, of course, after preparing your Fusion report.",
+        "option1": "\"Fusion again?! Haven't I suffered enough?\" (ChatGPT, 2024)",
+        "option2": "Prepare the expense report and the presentation for your supervisor.",
+        "duration": 4,
         "wait1": 7,
         "wait2": 30
     }

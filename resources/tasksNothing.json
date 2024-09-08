@@ -29,7 +29,7 @@
     {
         "group": "nothing",
         "text": "You have a day off. Enjoy it!",
-        "option1": "Enjoy life.",
+        "option1": "Wait, what happened? Are you serious?",
         "option2": "Enjoy life.",
         "duration": 1,
         "wait1": 0,
