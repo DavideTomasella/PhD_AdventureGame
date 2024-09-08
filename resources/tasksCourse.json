@@ -1,17 +1,17 @@
 [
     {
         "group": "course",
-        "text": "You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and ",
-        "option1": "Oh no, I'm already missing my old life, let me enjoy my freedom a bit more.",
-        "option2": "Study hard so you can impress your supervisor during the next meeting.",
+        "text": "You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and start to understand what your project is about: \"quantum optoacoustic at cryogenic temperatures\" seems such an interesting title!",
+        "option1": "Oh no, I'm already missing my old life, let me enjoy my freedom a bit more. ;)",
+        "option2": "I know nothing about optomechanics. I need to study hard so I can impress my supervisor during the next meeting.",
         "duration": 5,
         "wait1": 5,
-        "wait2": 30
+        "wait2": 10
     },{
         "group": "course",
-        "text": "During your PhD you have to attend some courses.",
-        "option1": "Enjoy life",
-        "option2": "Sign up for the next course",
+        "text": "During your PhD, your project isn't the only task - you have to attend some courses, and prepare for some activities.",
+        "option1": "I don't have time for courses. I need to focus on my project.",
+        "option2": "Sign up for the next course: the sooner I finish them, the sooner I can focus on your project.",
         "duration": 1,
         "wait1": 30,
         "wait2": 15
@@ -19,17 +19,35 @@
     {
         "group": "course",
         "text": "The course is starting soon. Are you ready?",
-        "option1": "Wait until next week",
-        "option2": "Attend the lecture 1/10",
-        "duration": 1,
+        "option1": "Wait until next week before starting the course.",
+        "option2": "Attend the lecture and study for the course 1/6.",
+        "duration": 2,
         "wait1": 7,
         "wait2": 7
     },
     {
         "group": "course",
         "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 2/10",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 2/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "course",
+        "text": "It's time for your next lecture.",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 3/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "course",
+        "text": "It's time for your next lecture.",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 4/6.",
         "duration": 1,
         "wait1": 0,
         "wait2": 7
@@ -37,8 +55,8 @@
     {
         "group": "course",
         "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 3/10",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 5/6.",
         "duration": 1,
         "wait1": 0,
         "wait2": 7
@@ -46,78 +64,24 @@
     {
         "group": "course",
         "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 4/10",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 6/6.",
         "duration": 1,
         "wait1": 0,
         "wait2": 7
-    },
-    {
-        "group": "course",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 5/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 6/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 7/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 8/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 9/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 10/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 30
     },{
         "group": "bootcamp",
-        "text": "Physics PhD bootcamp is starting soon.",
-        "option1": "Enjoy life",
-        "option2": "Sign up for it",
+        "text": "After starting your PhD, it's finally time for Physics PhD bootcamp! This is the best opportunity for meeting other PhD students and present your project to them.",
+        "option1": "Enjoy life - you aren't in a hurry.",
+        "option2": "Sign up for the PhD bootcamp, and start preparing the material.",
         "duration": 1,
         "wait1": 2,
         "wait2": 15
     },
     {
         "group": "bootcamp",
-        "text": "It is bootcamp week. Are you ready?",
-        "option1": "Enjoy life",
+        "text": "It is the Physics PhD Bootcamp week. Are you ready?",
+        "option1": "I still haven't prepare my presentation... Why are they asking me to read \"The old man and the sea\"?",
         "option2": "Bootcamp it is!",
         "duration": 7,
         "wait1": 1,
@@ -125,28 +89,45 @@
     },
     {
         "group": "course2",
-        "text": "You have another course to attend",
-        "option1": "Enjoy life",
-        "option2": "Sign up for the next course",
+        "text": "A new semester is starting, and it's finally time for another course. Are you ready?",
+        "option1": "I don't have time for courses. I need to focus on my project.",
+        "option2": "Sign up for the next course: the sooner I finish them, the sooner I can focus on your project.",
         "duration": 1,
         "wait1": 30,
         "wait2": 15
     },
-    
     {
         "group": "course2",
         "text": "The course is starting soon. Are you ready?",
-        "option1": "Wait until next week",
-        "option2": "Attend the lecture 1/10",
-        "duration": 1,
+        "option1": "Wait until next week before starting the course.",
+        "option2": "Attend the lecture and study for the course 1/6.",
+        "duration": 2,
         "wait1": 7,
         "wait2": 7
     },
     {
+        "group": "course",
+        "text": "It's time for your next lecture.",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 2/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
         "group": "course2",
         "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 2/10",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 3/6.",
+        "duration": 2,
+        "wait1": 0,
+        "wait2": 7
+    },
+    {
+        "group": "course2",
+        "text": "It's time for your next lecture.",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 4/6.",
         "duration": 1,
         "wait1": 0,
         "wait2": 7
@@ -154,8 +135,8 @@
     {
         "group": "course2",
         "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 3/10",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 5/6.",
         "duration": 1,
         "wait1": 0,
         "wait2": 7
@@ -163,64 +144,10 @@
     {
         "group": "course2",
         "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 4/10",
+        "option1": "Skip the class.",
+        "option2": "Attend the lecture and study for the course 6/6.",
         "duration": 1,
         "wait1": 0,
         "wait2": 7
-    },
-    {
-        "group": "course2",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 5/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course2",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 6/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course2",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 7/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course2",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 8/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course2",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 9/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 7
-    },
-    {
-        "group": "course2",
-        "text": "It's time for your next lecture.",
-        "option1": "Skip the class",
-        "option2": "Attend the lecture 10/10",
-        "duration": 1,
-        "wait1": 0,
-        "wait2": 30
     }
 ]
