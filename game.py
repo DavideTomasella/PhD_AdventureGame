@@ -160,13 +160,16 @@ class Game:
         # TODO manage html tags
         to_print = self.next_print
         with open(self.log_filename, "a") as f:
-            f.write(to_print)
+            f.write("\n" + to_print)
+            #if self.current_event:
+            #    f.write(self.current_event.group)
         self.next_print = ""
         return to_print
     
 
 
 if __name__ == "__main__":
+    import random
     game = Game()
     mes = game.start_game()
     print(mes)
@@ -174,7 +177,7 @@ if __name__ == "__main__":
     while game.day<game.max_day and game.progress<1:
         print(game.get_print())
         #choice = input("Enter choice: ")
-        choice = 2
+        choice = 2 if random.random() > 0.1 else 1
         count += 1
         mes = game.advance_game(int(choice))
         print(mes)

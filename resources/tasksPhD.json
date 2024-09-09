@@ -171,39 +171,30 @@
     },
     {
         "group": "external",
-        "text": "Are you ready to go in external stay?",
-        "option1": "Wait for next semester",
-        "option2": "Start organizing the external stay",
+        "text": "During the last months, you worked hard for your project, and it's now time to go experience another research environment. Are you ready to go in external stay?",
+        "option1": "I don't want to go in external stay right now. I'll wait for the next semester before thinking about it.",
+        "option2": "I already have some cool destination in mind with nice weather all year long (and a good research group, of course... but the weather is for sure the priority).",
         "duration": 2,
-        "wait1": 250,
+        "wait1": 100,
         "wait2": 7
     },
     {
         "group": "external",
-        "text": "You have found a place for the external stay",
-        "option1": "Wait until next week",
-        "option2": "Convince your supervisor",
-        "duration": 1,
+        "text": "You started the planning for the external stay, but there is still a lot to do... Convince your supervisor, contact the foreign university, organize the travel and accomodation, apply for some external grants, get to know the hosting research group,...",
+        "option1": "Wait until next week.",
+        "option2": "Yeah, it's probably time to take a break from my research project and focus on organizing my external stay.",
+        "duration": 7,
         "wait1": 7,
         "wait2": 7
     },
     {
         "group": "external",
-        "text": "Your supervisor has agreed",
-        "option1": "Wait until next week",
-        "option2": "Organize accomodation and travel",
-        "duration": 3,
-        "wait1": 7,
-        "wait2": 2
-    },
-    {
-        "group": "external",
-        "text": "Everything is ready for the external stay",
-        "option1": "Wait until next month",
-        "option2": "Go in external stay",
+        "text": "Everything is ready for the external stay. Are you ready to leave the country and enjoy this new experience?",
+        "option1": "The Danish weather is not too bad right now... I'll wait next month before leaving.",
+        "option2": "Let's go! See you all in a few months! I'll send you pictures from the beach.",
         "duration": 45,
         "wait1": 30,
-        "wait2": 0
+        "wait2": 30
     },
     {
         "group": "conference2",

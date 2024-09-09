@@ -19,6 +19,24 @@
     },
     {
         "group": "nothing",
+        "text": "You don't have much to do in the office. (Un)fortunately, your office started a nice discussion about the meaning of life.",
+        "option1": "Join the conversation by talking about free will in the cosmic expansion model.",
+        "option2": "Join the conversation by arguing how quantum effects are at the core of our cognitive processes.",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
+        "text": "As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?",
+        "option1": "Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.",
+        "option2": "Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.",
+        "duration": 1,
+        "wait1": 0,
+        "wait2": 0
+    },
+    {
+        "group": "nothing",
         "text": "Today, there is nothing to do in the office, but it's raining outside, and the wind is above 50km/h, and you feel like life is tough.",
         "option1": "Complain about the weather with your family and friends.",
         "option2": "Watch YouTube videos of people complaing about the Danish weather.",
@@ -30,7 +48,7 @@
         "group": "nothing",
         "text": "You have a day off. Enjoy it!",
         "option1": "Wait, what happened? Are you serious?",
-        "option2": "Enjoy life.",
+        "option2": "Yes! Finally!",
         "duration": 1,
         "wait1": 0,
         "wait2": 0

@@ -108,7 +108,7 @@
         "wait2": 7
     },
     {
-        "group": "course",
+        "group": "course2",
         "text": "It's time for your next lecture.",
         "option1": "Skip the class.",
         "option2": "Attend the lecture and study for the course 2/6.",
