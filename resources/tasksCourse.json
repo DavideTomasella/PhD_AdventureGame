@@ -1,7 +1,7 @@
 [
     {
         "group": "course",
-        "text": "You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and start to understand what your project is about: \"quantum optoacoustic at cryogenic temperatures\" seems such an interesting title!",
+        "text": "You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and start to understand what your project is about: \"quantum cavity optoacoustic at cryogenic temperatures\" seems such an interesting title!",
         "option1": "Oh no, I'm already missing my old life, let me enjoy my freedom a bit more. ;)",
         "option2": "I know nothing about optomechanics. I need to study hard so I can impress my supervisor during the next meeting.",
         "duration": 5,

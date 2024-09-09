@@ -1,4 +1,5 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QTextEdit
+from PyQt5.QtCore import Qt
 from PyQt5 import QtGui, uic
 from game import Game
 from text_producer import TextProducer
@@ -62,4 +63,5 @@ class MainUI(QMainWindow):
 #if __name__ == '__main__':
 app = QApplication([])
 window = MainUI()
+app.setAttribute(Qt.HighDpiScaleFactorRoundingPolicy.PassThrough)
 app.exec()

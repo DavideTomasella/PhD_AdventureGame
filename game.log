@@ -11,7 +11,7 @@ Good luck!
 Day 1:
 Progress: 0%
 
-You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and start to understand what your project is about: "quantum optoacoustic at cryogenic temperatures" seems such an interesting title!
+You are starting your PhD. New job, new life, new city, ... It's the perfect time to close yourself in the office and start to understand what your project is about: "quantum cavity optoacoustic at cryogenic temperatures" seems such an interesting title!
 
 Accept task (5 days):
 I know nothing about optomechanics. I need to study hard so I can impress my supervisor during the next meeting.
@@ -23,49 +23,37 @@ Oh no, I'm already missing my old life, let me enjoy my freedom a bit more. ;)
 Day 6:
 Progress: 1%
 
-Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+Have you remembered to water the plants in the office? They are looking a bit sad.
 
 Accept task (4 days):
-"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
+"Water the plants. They are your only friends." (ChatGPT, 2024)
 
 Reschedule task (4 days):
-Stress about the meeting.
+Look at the plants slowly withering away since they remind you of your own life.
 
 
 Day 10:
 Progress: 1%
 
-The fridge is broken
+The setup you're working on during your PhD is centered around a dilution refrigerator. This is a quite complex system that is around in QPIT since 7+ years ago. Your goal for the next months is to use this setup to characterize and manipulate the otomechanical respose of a quartz crystal. However, two weeks before the start of your PhD, the fridge stopped working.
 
 Accept task (3 days):
-Look for the problem
+I'm not getting demotivated by these small hiccups. I'll immediately try to understand what's going on.
 
 Reschedule task:
-Wait for next week
+Oh no, am I still in time to give up and change topic? Maybe I should come back in a few months...
 
 
 Day 13:
-Progress: 3%
+Progress: 2%
 
-You have found the problem: the scroll is broken
+While you where studing the manuals and testing checking the logs of the last cooldown, you discovered that the dilution fridge hasn't been maintained since 2020 when a colleague left. It isn't a great news, and it's probably the reason for the failure.
 
-Accept task (1 days):
-Contact Bluefors
+Accept task (2 days):
+Contact Bluefors (the company who sold the fridge) and ask for directions about how to debug the system.
 
 Reschedule task:
-Wait for next week
-
-
-Day 14:
-Progress: 4%
-
-Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
-
-Accept task (1 days):
-Enjoy life.
-
-Reschedule task (1 days):
-Enjoy life.
+Wait for next week, and try to understand better what's going on and who was in charge of the maintenance.
 
 
 Day 15:
@@ -81,7 +69,7 @@ Reschedule task:
 
 
 Day 20:
-Progress: 6%
+Progress: 5%
 
 During your PhD, your project isn't the only task - you have to attend some courses, and prepare for some activities. During the last chat with your friends, you found a simple course that you could attend to get some easy ECTS... ehm,... I mean, to improve your knowledge and refine your theoretical skills in Quantum Optomechanics.
 
@@ -93,55 +81,43 @@ Reschedule the task and check the other tasks for today.
 
 
 Day 21:
-Progress: 7%
+Progress: 6%
 
-Bluefors has answered: they need more information
+After several emails with Bluefors, they have figured out that there's a partial breakdown with the scroll pump. It cannot reach the nominal compression rate, and thus the low-pressure turbo pump cannot start operating to create vacuum in the chamber.
 
-Accept task (1 days):
-Send the information
-
-Reschedule task:
-Wait for next week
-
-
-Day 22:
-Progress: 9%
-
-Bluefors has answered: you need to remove the scroll and do the mainteneance
-
-Accept task (1 days):
-Check the manual for the procedure
+Accept task (2 days):
+It seems like I have to self-teach how to become a mechanical technician. Spend some time checking the procedure in the maintenance manual of the fridge.
 
 Reschedule task:
-Wait for next week
+I haven't understood anything about what's going on. Can someone explain me what's a scroll pump?
 
 
 Day 23:
-Progress: 10%
+Progress: 8%
 
-You need to order the maintenance kit for the scroll
+You're finally confident about what is the problem with the fridge and how to solve it! Now you need to order the maintenance kit for the scroll pump.
 
 Accept task (1 days):
-Buy and wait for it to arrive
+Tell the great news to Ulrik, contact Bluefors, buy the kit, and wait for it to arrive.
 
 Reschedule task:
-Wait for next week
+Wait for next week.
 
 
 Day 24:
-Progress: 12%
+Progress: 9%
 
-Today, there is nothing to do in the office, but it's raining outside, and the wind is above 50km/h, and you feel like life is tough.
+You have a day off. Enjoy it!
 
 Accept task (6 days):
-Complain about the weather with your family and friends.
+Wait, what happened? Are you serious?
 
 Reschedule task (6 days):
-Watch YouTube videos of people complaing about the Danish weather.
+Yes! Finally!
 
 
 Day 30:
-Progress: 12%
+Progress: 9%
 
 It's already time for the course you're TAing. Are you ready?
 
@@ -152,20 +128,44 @@ Reschedule task:
 I don't have time for teaching. I need to focus on my project.
 
 
-Day 30:
+Day 32:
+Progress: 10%
+
+Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+
+Accept task (2 days):
+"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
+
+Reschedule task (2 days):
+Stress about the meeting.
+
+
+Day 34:
+Progress: 10%
+
+The maintenance kit for the scroll pump has finally arrived. Now, you can start the maintenence of the fridge.
+
+Accept task (1 days):
+Check that all the gas has been placed back into the proper cylinder, disconnect the piping, and remove the scroll.
+
+Reschedule task:
+I need to ask someone to help me because I cannot move a 40-kg pump from that cramped space.
+
+
+Day 35:
 Progress: 12%
 
-Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
+Oh no, while you where removing the scroll pump, you found a lot of powder with unknown origin that it's dropping form the piping and dirting all the room. [insert picture with a lot of black powder]
 
-Accept task (6 days):
-Enjoy life.
+Accept task (1 days):
+It seems that the powders comes from the filter next to the pump - remove it too, and try to understand what happened.
 
-Reschedule task (6 days):
-Enjoy life.
+Reschedule task:
+I cannot cope with that right now...
 
 
 Day 36:
-Progress: 12%
+Progress: 13%
 
 The course is starting soon. Are you ready?
 
@@ -173,71 +173,23 @@ Accept task (2 days):
 Attend the lecture and study for the course 1/6.
 
 Reschedule task:
-Wait until next week before starting the course.
-
-
-Day 38:
-Progress: 13%
-
-It's already time for the course you're TAing. Are you ready?
-
-Accept task (2 days):
-Prepare the material and help the students during the lecture 1/6.
-
-Reschedule task:
-I don't have time for teaching. I need to focus on my project.
-
-
-Day 40:
-Progress: 15%
-
-The maintenance kit has arrived
-
-Accept task (1 days):
-Remove the scroll
-
-Reschedule task:
-Wait for next week
-
-
-Day 41:
-Progress: 16%
-
-While you where removing the scroll, you found a lot of powder
-
-Accept task (1 days):
-Check and remove the filter
-
-Reschedule task:
-Wait for next week
-
-
-Day 42:
-Progress: 18%
-
-You have removed the filter and the pump
-
-Accept task (7 days):
-Clean the filter and the pump
-
-Reschedule task:
-Wait for next week
-
-
-Day 49:
-Progress: 20%
-
-It's time for your next lecture.
-
-Accept task (2 days):
-Attend the lecture and study for the course 2/6.
-
-Reschedule task:
 Reschedule the task and check the other tasks for today.
 
 
-Day 51:
-Progress: 21%
+Day 38:
+Progress: 14%
+
+You have removed the filter and the pump. The black powder comes from the degradeted tip seal of the scroll pump - it should have been changed 4 years ago... Now, you need 
+
+Accept task (7 days):
+Spend the next week cleaning the scroll and the filter with some paper towels and cutton buds (200 kr). You cannot use solvents or other chemical otherwise you'll introduce impurities in the Helium-3 mixuture.
+
+Reschedule task:
+Try to convince Ulrik to buy a new pump (62.710,19 kr).
+
+
+Day 45:
+Progress: 16%
 
 It's time for your next TA.
 
@@ -248,56 +200,68 @@ Reschedule task:
 Reschedule the task and check the other tasks for today.
 
 
-Day 53:
-Progress: 23%
+Day 47:
+Progress: 17%
 
-The filter must be changed
+After some efforts and several podcasts, the scroll is finally cleaned. The filter however needs to be changed.
 
 Accept task (1 days):
-Search for the right filter
+Contact Bluefors for ordering a new filter (note: their support team is really slow in answering, so it's gonna take some time).
 
 Reschedule task:
-Wait for next week
+Reschedule the task and check the other tasks for today.
+
+
+Day 48:
+Progress: 18%
+
+It's time for your next lecture.
+
+Accept task (2 days):
+Attend the lecture and study for the course 2/6.
+
+Reschedule task:
+Skip the class.
+
+
+Day 50:
+Progress: 20%
+
+Have you remembered to water the plants in the office? They are looking a bit sad.
+
+Accept task (4 days):
+"Water the plants. They are your only friends." (ChatGPT, 2024)
+
+Reschedule task (4 days):
+Look at the plants slowly withering away since they remind you of your own life.
 
 
 Day 54:
-Progress: 24%
+Progress: 20%
 
-You couldn't find the correct filter: contact Bluefors and ask for help
-
-Accept task (1 days):
-Contact Bluefors
-
-Reschedule task:
-Wait for next week
-
-
-Day 55:
-Progress: 26%
-
-As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
+It's time for your next TA.
 
 Accept task (2 days):
-Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
+Prepare the material and help the students during the lecture 3/6.
 
-Reschedule task (2 days):
-Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
+Reschedule task:
+Skip the class.
+
+
+Day 56:
+Progress: 21%
+
+After one week, you finally received a quote from BlueforsYou have received the quote
+
+Accept task (1 days):
+Immediately accept the quote to speed up the process, and wait for the filter to arrive.
+
+Reschedule task:
+Wait the next meeting with Ulrik before buying the filter.
 
 
 Day 57:
-Progress: 26%
-
-Bluefors has answered: you can sell you the right filter
-
-Accept task (1 days):
-Ask for the quote
-
-Reschedule task:
-Wait for next week
-
-
-Day 58:
-Progress: 27%
+Progress: 22%
 
 It's time for your next lecture.
 
@@ -308,68 +272,20 @@ Reschedule task:
 Skip the class.
 
 
-Day 60:
-Progress: 29%
+Day 59:
+Progress: 24%
 
-It's time for your next TA.
+You have a day off. Enjoy it!
 
-Accept task (2 days):
-Prepare the material and help the students during the lecture 3/6.
+Accept task (4 days):
+Wait, what happened? Are you serious?
 
-Reschedule task:
-Skip the class.
-
-
-Day 60:
-Progress: 29%
-
-It's time for your next TA.
-
-Accept task (2 days):
-Prepare the material and help the students during the lecture 3/6.
-
-Reschedule task:
-Skip the class.
-
-
-Day 62:
-Progress: 30%
-
-You have received the quote
-
-Accept task (1 days):
-Agree with Ulrik and buy the filter
-
-Reschedule task:
-Wait for next week
+Reschedule task (4 days):
+Yes! Finally!
 
 
 Day 63:
-Progress: 32%
-
-Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
-
-Accept task (4 days):
-Enjoy the small break at home.
-
-Reschedule task (4 days):
-Plan for a day trip in Sweden.
-
-
-Day 67:
-Progress: 32%
-
-It's time for your next lecture.
-
-Accept task (2 days):
-Attend the lecture and study for the course 4/6.
-
-Reschedule task:
-Skip the class.
-
-
-Day 69:
-Progress: 33%
+Progress: 24%
 
 It's time for your next TA.
 
@@ -380,56 +296,80 @@ Reschedule task:
 Skip the class.
 
 
-Day 71:
-Progress: 35%
+Day 65:
+Progress: 25%
 
-You have a day off. Enjoy it!
+Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+
+Accept task (1 days):
+"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
+
+Reschedule task (1 days):
+Stress about the meeting.
+
+
+Day 66:
+Progress: 25%
+
+It's time for your next lecture.
 
 Accept task (2 days):
-Wait, what happened? Are you serious?
+Attend the lecture and study for the course 4/6.
 
-Reschedule task (2 days):
-Yes! Finally!
+Reschedule task:
+Skip the class.
+
+
+Day 68:
+Progress: 26%
+
+The filter for the dilution fridge has arrived.
+
+Accept task (3 days):
+Finish cleaning the scroll pump, install the filter, and reassemble the system.
+
+Reschedule task:
+Wait to have some free time to install the filter.
+
+
+Day 71:
+Progress: 28%
+
+You finish assembling back all the components. Now, you have to check that everything is working and leak-free. You don't want to lose the really expensive Helium-3 mixture, do you?
+
+Accept task (2 days):
+Ask Brian to borrow the leak detector and check all the fittings.
+
+Reschedule task:
+Wait for next week.
 
 
 Day 73:
-Progress: 35%
+Progress: 29%
 
-The filter has arrived
+It's time for your next TA.
 
-Accept task (1 days):
-Finish cleaning the scrool and install the filter
-
-Reschedule task:
-Wait for next week
-
-
-Day 74:
-Progress: 36%
-
-The scroll and the filter are ready
-
-Accept task (1 days):
-Reassemble the circuit
+Accept task (2 days):
+Prepare the material and help the students during the lecture 5/6.
 
 Reschedule task:
-Wait for next week
+Skip the class.
 
 
 Day 75:
-Progress: 38%
+Progress: 30%
 
-Everything is back in place
+The system is fine again. Everything is ready for the next cooldown and for taking some measurements. It's finally time to start working on your project!
 
 Accept task (1 days):
-Ask Brian(?) to borrow the leak detector
+Start the cooldown over the weekend since it's gonna take 50 hours and you can keep monitoring the system from home.
 
 Reschedule task:
-Wait for next week
+Reschedule the task and check the other tasks for today.
 
 
 Day 76:
-Progress: 40%
+Progress: 32%
 
 It's time for your next lecture.
 
@@ -441,67 +381,79 @@ Skip the class.
 
 
 Day 78:
-Progress: 41%
-
-Brian aswered: he can borrow you the leak detector
-
-Accept task (1 days):
-Fix the day and check for leaks
-
-Reschedule task:
-Reschedule the task and check the other tasks for today.
-
-
-Day 79:
-Progress: 43%
-
-It's time for your next TA.
-
-Accept task (2 days):
-Prepare the material and help the students during the lecture 5/6.
-
-Reschedule task:
-Reschedule the task and check the other tasks for today.
-
-
-Day 81:
-Progress: 44%
-
-The system is fine again. Everything is ready for the next cooldown
-
-Accept task (1 days):
-Start the cooldown
-
-Reschedule task:
-Wait for next week
-
-
-Day 82:
-Progress: 46%
+Progress: 33%
 
 Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
 
-Accept task (3 days):
+Accept task (1 days):
 Enjoy the small break at home.
 
-Reschedule task (3 days):
+Reschedule task (1 days):
 Plan for a day trip in Sweden.
 
 
-Day 85:
-Progress: 46%
+Day 79:
+Progress: 33%
 
-The valve is broken
+Something went wrong during the last cooldown. Instead of reaching 20mK, the temperature of the fridge stopped at 4.3K. You're pretty sure that your repair was fine, you need to investigate the problem.
 
-Accept task (1 days):
-Contact Bluefors
+Accept task (2 days):
+Contact Bluefors, send them all the log files, and wait for thei help.
 
 Reschedule task:
-Reschedule the task and check the other tasks for today.
+I come from the future! I already know that the gas pressure in the compressor circuit is too low.
+
+
+Day 81:
+Progress: 34%
+
+Have you remembered to water the plants in the office? They are looking a bit sad.
+
+Accept task (1 days):
+"Water the plants. They are your only friends." (ChatGPT, 2024)
+
+Reschedule task (1 days):
+Look at the plants slowly withering away since they remind you of your own life.
+
+
+Day 82:
+Progress: 34%
+
+It's time for your next lecture.
+
+Accept task (2 days):
+Attend the lecture and study for the course 6/6.
+
+Reschedule task:
+Skip the class.
+
+
+Day 82:
+Progress: 34%
+
+It's time for your next lecture.
+
+Accept task (2 days):
+Attend the lecture and study for the course 6/6.
+
+Reschedule task:
+Skip the class.
+
+
+Day 84:
+Progress: 36%
+
+You received news from Bluefors. They believe that the compressor leaked some gas (after 7 years, it isn't a surprise). For this reason, the 4K stage reaches only 4.3K instead of 3.8K. And the Helium dilution cannot start.
+
+Accept task (2 days):
+I can still take some measurements at 4.3K, while I'm trying to understand how to recharge the compressor (1/6).
+
+Reschedule task:
+I told you!
 
 
 Day 86:
-Progress: 47%
+Progress: 37%
 
 It's time for your next lecture.
 
@@ -513,55 +465,31 @@ Skip the class.
 
 
 Day 88:
-Progress: 49%
+Progress: 38%
 
-Bluefors has answered
-
-Accept task (2 days):
-Look for a new valve
-
-Reschedule task:
-Reschedule the task and check the other tasks for today.
-
-
-Day 90:
-Progress: 50%
-
-It's time for your next lecture.
-
-Accept task (2 days):
-Attend the lecture and study for the course 6/6.
-
-Reschedule task:
-Reschedule the task and check the other tasks for today.
-
-
-Day 92:
-Progress: 52%
-
-You have to order the new valve
+Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
 
 Accept task (1 days):
-Buy and wait for it to arrive
+Enjoy the small break at home.
+
+Reschedule task (1 days):
+Plan for a day trip in Sweden.
+
+
+Day 89:
+Progress: 38%
+
+You are trying to characterize the mechanical response of your cavity. you cannot modify the alignment of the system inside the dilution fridge, so you can only crank up the power and try to make the system laser.
+
+Accept task (2 days):
+Keep looking for the cavity response of the cavity (2/6).
 
 Reschedule task:
-Wait for next week
+Work on something else.
 
 
-Day 93:
-Progress: 53%
-
-Today, there is nothing to do in the office, but it's raining outside, and the wind is above 50km/h, and you feel like life is tough.
-
-Accept task (6 days):
-Complain about the weather with your family and friends.
-
-Reschedule task (6 days):
-Watch YouTube videos of people complaing about the Danish weather.
-
-
-Day 99:
-Progress: 53%
+Day 91:
+Progress: 40%
 
 While you were browing through your email, you found an interesting conference coming up. Are you going to attend it?
 
@@ -572,44 +500,44 @@ Reschedule task:
 Skip this conference. I'm so busy - how can people manage this life?
 
 
-Day 100:
-Progress: 55%
+Day 92:
+Progress: 41%
+
+You have a day off. Enjoy it!
+
+Accept task (2 days):
+Wait, what happened? Are you serious?
+
+Reschedule task (2 days):
+Yes! Finally!
+
+
+Day 94:
+Progress: 41%
+
+You finally found the correct frequency - you can finally start to characterize the cavity response.
+
+Accept task (3 days):
+Characterize the cavity lasing (3/6).
+
+Reschedule task:
+Work on something else.
+
+
+Day 97:
+Progress: 42%
 
 Today, there is nothing to do in the office, but it's raining outside, and the wind is above 50km/h, and you feel like life is tough.
 
-Accept task (3 days):
+Accept task (2 days):
 Complain about the weather with your family and friends.
 
-Reschedule task (3 days):
+Reschedule task (2 days):
 Watch YouTube videos of people complaing about the Danish weather.
 
 
-Day 103:
-Progress: 55%
-
-After starting your PhD, it's finally time for Physics PhD bootcamp! This is the best opportunity for meeting other PhD students and present your project to them.
-
-Accept task (1 days):
-Sign up for the PhD bootcamp, and start preparing the material.
-
-Reschedule task:
-Enjoy life - you aren't in a hurry.
-
-
-Day 104:
-Progress: 56%
-
-You don't have much to do in the office. (Un)fortunately, your office started a nice discussion about the meaning of life.
-
-Accept task (3 days):
-Join the conversation by talking about free will in the cosmic expansion model.
-
-Reschedule task (3 days):
-Join the conversation by arguing how quantum effects are at the core of our cognitive processes.
-
-
-Day 107:
-Progress: 56%
+Day 99:
+Progress: 42%
 
 Great news! Your supervisor has agreed to you attending the conference.
 
@@ -620,32 +548,32 @@ Reschedule task:
 Oh no, I really don't understand how to use CWT. Fortunately, I'm not the only one going to this conference. Let's wait for them to show me how to book my flight and accomodation.
 
 
-Day 110:
-Progress: 58%
+Day 102:
+Progress: 44%
 
-The valve has arrived
+While you were taking some measurements you realize the settings of the spectrum analyzer are wrong. You need to restart the measurements.
 
-Accept task (2 days):
-Install the valve
+Accept task (7 days):
+Spend the next week studying the spectrum analyzer manual to configure it properly, and retake the last measurements (4/6).
 
 Reschedule task:
-Wait for next week
+The programming manual of the spectrum analyzer is 3332 pages, I never read this much in all my life.
 
 
-Day 112:
-Progress: 60%
+Day 109:
+Progress: 45%
 
-The system is fine again. Everything is ready for the next cooldown
+After starting your PhD, it's finally time for Physics PhD bootcamp! This is the best opportunity for meeting other PhD students and present your project to them.
 
 Accept task (1 days):
-Start the cooldown!
+Sign up for the PhD bootcamp, and start preparing the material.
 
 Reschedule task:
 Reschedule the task and check the other tasks for today.
 
 
-Day 112:
-Progress: 60%
+Day 109:
+Progress: 45%
 
 The conference is coming up. You managed to prepare all the documents in time. Are you ready?
 
@@ -656,20 +584,32 @@ Reschedule task:
 Wait until next week.
 
 
-Day 119:
-Progress: 61%
+Day 116:
+Progress: 46%
 
-The system is fine again. Everything is ready for the next cooldown
+After starting your PhD, it's finally time for Physics PhD bootcamp! This is the best opportunity for meeting other PhD students and present your project to them.
 
 Accept task (1 days):
-Start the cooldown!
+Sign up for the PhD bootcamp, and start preparing the material.
+
+Reschedule task:
+Reschedule the task and check the other tasks for today.
+
+
+Day 117:
+Progress: 48%
+
+Ok, now the measurements are correct and you manage to improve the spectral resolution by averaging the spectra, but instead of seeing 3 peaks, you have 3 manifolds of 13 peaks each. Each peak is then composed by 3+ peaks.
+
+Accept task (3 days):
+I'll try to measure the power response of the peaks, maybe they are non-linear effects (5/6).
 
 Reschedule task:
 Reschedule the task and check the other tasks for today.
 
 
 Day 120:
-Progress: 63%
+Progress: 49%
 
 You're back from the conference - it was a great experience and you cannot wait to tell your supervisor and your collegue about the latest results from the other research groups. However, there is something more important to prepare: the Fusion expense report!
 
@@ -677,23 +617,35 @@ Accept task (2 days):
 It's good that I'm prepared for this! I kept all the receipts, and because of my luck, Fusion won't have any bugs this time.
 
 Reschedule task:
-Reschedule the task and check the other tasks for today.
+Ok... I never used Fusion before... I don't have time to learn about it now. I'll ask help from Alex... I'm sure he'll explain it to me.
 
 
 Day 122:
-Progress: 64%
+Progress: 50%
 
-It is the Physics PhD Bootcamp week. Are you ready?
+As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
 
-Accept task (7 days):
-Bootcamp it is!
+Accept task (1 days):
+Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
+
+Reschedule task (1 days):
+Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
+
+
+Day 123:
+Progress: 50%
+
+They don't seem to respond to power, but they behave like expected from the mechanical modes. Maybe there is something wrong with the cavity.
+
+Accept task (3 days):
+Finish the characterization of the modes, so you have something to discuss during the next project meeting (6/6).
 
 Reschedule task:
-I still haven't prepare my presentation... Why are they asking me to read "The old man and the sea"?
+... if I'm investing 300$ each months, and I'm getting 3900% interest rate... I'll need 6 years to become richer that Elon Musk.
 
 
-Day 129:
-Progress: 66%
+Day 126:
+Progress: 52%
 
 Since you're back from the conference, you haven't progress much in your project.
 
@@ -704,20 +656,56 @@ Reschedule task:
 I can still work during the weekend to catch up with the delay.
 
 
-Day 130:
-Progress: 67%
+Day 127:
+Progress: 53%
 
-You have a day off. Enjoy it!
+Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
 
-Accept task (10 days):
-Wait, what happened? Are you serious?
+Accept task (2 days):
+"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
 
-Reschedule task (10 days):
-Yes! Finally!
+Reschedule task (2 days):
+Stress about the meeting.
+
+
+Day 129:
+Progress: 53%
+
+It's almost holiday time! You need to warm up the fridge unless you want to spend the next weeks in the office. However, the valve that controls the air flow inside the fridge it's stuck, so you cannot let air inside the canister.
+
+Accept task (3 days):
+I'm already an expert! I'll hijack the valve by connecting the pressured line from another valve so at least I can open the fridge.
+
+Reschedule task:
+Let's contact Bluefors to be sure how to proceed.
+
+
+Day 132:
+Progress: 54%
+
+It is the Physics PhD Bootcamp week. Are you ready?
+
+Accept task (7 days):
+Bootcamp it is!
+
+Reschedule task:
+I still haven't prepare my presentation... Why are they asking me to read "The old man and the sea"?
+
+
+Day 139:
+Progress: 56%
+
+While you where debugging the volve, you found that the pneumatic actuator is broken - that's the easiest possible senario. You just need to order a new one, and change it.
+
+Accept task (1 days):
+Buy the new actuator and, and wait for it to arrive
+
+Reschedule task:
+Reschedule the task and check the other tasks for today.
 
 
 Day 140:
-Progress: 67%
+Progress: 57%
 
 The best moment of the year is finally arrived. It isn't Christmas or the Summer holidays, it's time for the annual QPIT retreat. [Add some meta comments about the retreat]
 
@@ -729,43 +717,43 @@ Well, the location is nice, the food is great, and the weather is the Danish one
 
 
 Day 141:
-Progress: 69%
+Progress: 58%
 
-You have a day off. Enjoy it!
+Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
 
-Accept task (18 days):
-Wait, what happened? Are you serious?
+Accept task (14 days):
+Enjoy the small break at home.
 
-Reschedule task (18 days):
-Yes! Finally!
+Reschedule task (14 days):
+Plan for a day trip in Sweden.
 
 
-Day 159:
-Progress: 69%
+Day 155:
+Progress: 58%
 
-A new semester is starting, and it's finally time for another course. Are you ready?
+The valve actuator is finally arrived.
 
-Accept task (1 days):
-Sign up for the next course: the sooner I finish them, the sooner I can focus on your project.
+Accept task (2 days):
+Install the actuator and test the valve.
 
 Reschedule task:
-I don't have time for courses. I need to focus on my project.
+I'm busy these days, I'll wait for next week.
 
 
-Day 160:
-Progress: 70%
+Day 155:
+Progress: 58%
 
 As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
 
-Accept task (1 days):
+Accept task (6 days):
 Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
 
-Reschedule task (1 days):
+Reschedule task (6 days):
 Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
 
 
 Day 161:
-Progress: 70%
+Progress: 58%
 
 It's already time for the course you're TAing. Are you ready?
 
@@ -777,19 +765,43 @@ I don't have time for teaching. I need to focus on my project.
 
 
 Day 163:
-Progress: 72%
+Progress: 60%
 
-You have a day off. Enjoy it!
+The valve actuator is finally arrived.
 
-Accept task (7 days):
-Wait, what happened? Are you serious?
+Accept task (2 days):
+Install the actuator and test the valve.
 
-Reschedule task (7 days):
-Yes! Finally!
+Reschedule task:
+I'm busy these days, I'll wait for next week.
+
+
+Day 165:
+Progress: 61%
+
+The system is (almost) fine again. The compressor is still broken, but you can run the fridge at 5K to characterize the cavity.
+
+Accept task (5 days):
+I have several improvements that I need to work on even if the fridge isn't working properly. I'll spend the next week studying the expected cavity response (1/6).
+
+Reschedule task:
+I don't know what it's wrong with my experiment!
 
 
 Day 170:
-Progress: 72%
+Progress: 62%
+
+A new semester is starting, and it's finally time for another course. Are you ready?
+
+Accept task (1 days):
+Sign up for the next course: the sooner I finish them, the sooner I can focus on your project.
+
+Reschedule task:
+Reschedule the task and check the other tasks for today.
+
+
+Day 171:
+Progress: 64%
 
 It's time for your next TA.
 
@@ -800,44 +812,32 @@ Reschedule task:
 Skip the class.
 
 
-Day 172:
-Progress: 73%
+Day 173:
+Progress: 65%
 
-Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
+You cannot find the problem with the cavity, you can only try to improve the system a bit at a time until you understand it better.
 
 Accept task (3 days):
-Enjoy life.
-
-Reschedule task (3 days):
-Enjoy life.
-
-
-Day 175:
-Progress: 73%
-
-The course is starting soon. Are you ready?
-
-Accept task (2 days):
-Attend the lecture and study for the course 1/6.
+Buy some new copper breads to improve the thermal connection between the cavity and the fridge (2/6).
 
 Reschedule task:
-Wait until next week before starting the course.
+"I'm tired of this." (ChatGPT, 2024)
 
 
-Day 177:
-Progress: 75%
+Day 176:
+Progress: 66%
 
-Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
+As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
 
-Accept task (2 days):
-Enjoy life.
+Accept task (4 days):
+Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
 
-Reschedule task (2 days):
-Enjoy life.
+Reschedule task (4 days):
+Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
 
 
-Day 179:
-Progress: 75%
+Day 180:
+Progress: 66%
 
 It's time for your next TA.
 
@@ -848,44 +848,44 @@ Reschedule task:
 Skip the class.
 
 
-Day 181:
-Progress: 76%
+Day 182:
+Progress: 68%
 
-Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
 
-Accept task (3 days):
-"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
+Accept task (4 days):
+Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
 
-Reschedule task (3 days):
-Stress about the meeting.
-
-
-Day 184:
-Progress: 76%
-
-It's time for your next lecture.
-
-Accept task (2 days):
-Attend the lecture and study for the course 2/6.
-
-Reschedule task:
-Skip the class.
+Reschedule task (4 days):
+Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
 
 
 Day 186:
-Progress: 78%
+Progress: 68%
 
-Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
+The course is starting soon. Are you ready?
 
 Accept task (2 days):
-Enjoy the small break at home.
+Attend the lecture and study for the course 1/6.
 
-Reschedule task (2 days):
-Plan for a day trip in Sweden.
+Reschedule task:
+Reschedule the task and check the other tasks for today.
 
 
-Day 188:
-Progress: 78%
+Day 186:
+Progress: 68%
+
+The copper breads are finally arrived. Now you can better thermalize the cavity temperature and take lasing measurements without heating the system.
+
+Accept task (3 days):
+Machine some copper plates and aluminum staffs to reduce the vibration coupled inside the cavity (3/6).
+
+Reschedule task:
+"I'm tired of this." (ChatGPT, 2024)
+
+
+Day 189:
+Progress: 69%
 
 It's time for your next TA.
 
@@ -896,8 +896,32 @@ Reschedule task:
 Skip the class.
 
 
-Day 190:
-Progress: 80%
+Day 191:
+Progress: 70%
+
+As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
+
+Accept task (2 days):
+Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
+
+Reschedule task (2 days):
+Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
+
+
+Day 193:
+Progress: 70%
+
+The course is starting soon. Are you ready?
+
+Accept task (2 days):
+Attend the lecture and study for the course 1/6.
+
+Reschedule task:
+Wait until next week before starting the course.
+
+
+Day 195:
+Progress: 72%
 
 Today, there is nothing to do in the office, but it's raining outside, and the wind is above 50km/h, and you feel like life is tough.
 
@@ -908,32 +932,8 @@ Reschedule task (3 days):
 Watch YouTube videos of people complaing about the Danish weather.
 
 
-Day 193:
-Progress: 80%
-
-It's time for your next lecture.
-
-Accept task (2 days):
-Attend the lecture and study for the course 3/6.
-
-Reschedule task:
-Skip the class.
-
-
-Day 195:
-Progress: 81%
-
-As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
-
-Accept task (2 days):
-Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
-
-Reschedule task (2 days):
-Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
-
-
-Day 197:
-Progress: 81%
+Day 198:
+Progress: 72%
 
 It's time for your next TA.
 
@@ -944,44 +944,44 @@ Reschedule task:
 Skip the class.
 
 
-Day 199:
-Progress: 83%
+Day 200:
+Progress: 73%
 
-Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
+The new pieces are ready, and you even found some springs to damp the vibrations. However, the noise is still to high to measure at low powers.
 
 Accept task (3 days):
-Enjoy life.
+Resolder the piezos that control the mirror position inside the cavity with thinner wires so they couple less vibration (4/6).
 
-Reschedule task (3 days):
-Enjoy life.
+Reschedule task:
+"I'm tired of this." (ChatGPT, 2024)
 
 
-Day 202:
-Progress: 83%
+Day 203:
+Progress: 74%
 
 It's time for your next lecture.
 
 Accept task (2 days):
-Attend the lecture and study for the course 4/6.
+Attend the lecture and study for the course 2/6.
 
 Reschedule task:
 Skip the class.
 
 
-Day 204:
-Progress: 84%
+Day 205:
+Progress: 76%
 
-As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
+You have a day off. Enjoy it!
 
 Accept task (2 days):
-Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
+Wait, what happened? Are you serious?
 
 Reschedule task (2 days):
-Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
+Yes! Finally!
 
 
-Day 206:
-Progress: 84%
+Day 207:
+Progress: 76%
 
 It's time for your next lecture.
 
@@ -992,44 +992,44 @@ Reschedule task:
 Skip the class.
 
 
-Day 208:
-Progress: 86%
+Day 209:
+Progress: 77%
 
-You have a day off. Enjoy it!
+Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
 
 Accept task (3 days):
-Wait, what happened? Are you serious?
+Enjoy the small break at home.
 
 Reschedule task (3 days):
-Yes! Finally!
+Plan for a day trip in Sweden.
 
 
-Day 211:
-Progress: 86%
+Day 212:
+Progress: 77%
 
 It's time for your next lecture.
 
 Accept task (2 days):
-Attend the lecture and study for the course 5/6.
+Attend the lecture and study for the course 3/6.
 
 Reschedule task:
 Skip the class.
 
 
-Day 213:
-Progress: 87%
+Day 214:
+Progress: 78%
 
-Who said that PhD life is boring? Look at you - you only worked for a few days, and it's already time to take a break. What about some quality traveling time?
+Your idea about reducing the vibrations works quite nicely, even if still from ideal. After thermalization and mechanical isolation, you should try to improve the 90% losses of the light before it couples to the cavity.
 
-Accept task (2 days):
-Enjoy the small break at home.
+Accept task (3 days):
+Splice the fiber and monitor the power drop during the next cooldown (5/6).
 
-Reschedule task (2 days):
-Plan for a day trip in Sweden.
+Reschedule task:
+"I'm tired of this." (ChatGPT, 2024)
 
 
-Day 215:
-Progress: 87%
+Day 217:
+Progress: 80%
 
 During the last months, you worked hard for your project, and it's now time to go experience another research environment. Are you ready to go in external stay?
 
@@ -1040,19 +1040,103 @@ Reschedule task:
 I don't want to go in external stay right now. I'll wait for the next semester before thinking about it.
 
 
-Day 217:
-Progress: 89%
+Day 219:
+Progress: 81%
 
 Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
 
-Accept task (3 days):
+Accept task (2 days):
 Enjoy life.
+
+Reschedule task (2 days):
+Enjoy life.
+
+
+Day 221:
+Progress: 81%
+
+It's time for your next lecture.
+
+Accept task (2 days):
+Attend the lecture and study for the course 4/6.
+
+Reschedule task:
+Skip the class.
+
+
+Day 223:
+Progress: 82%
+
+As every semester, it's time for your presentation at the Journal Club. Do you have an article in mind?
+
+Accept task (3 days):
+Present some obscure paper - if nobody undestands what you're taliking about, they won't ask questions.
 
 Reschedule task (3 days):
-Enjoy life.
+Present some experimental proposals - they are so far-fetched, but that's the fun of laughing together about theoreticians.
 
 
-Day 220:
+Day 226:
+Progress: 82%
+
+You started the planning for the external stay, but there is still a lot to do... Convince your supervisor, contact the foreign university, organize the travel and accomodation, apply for some external grants, get to know the hosting research group,...
+
+Accept task (7 days):
+Yeah, it's probably time to take a break from my research project and focus on organizing my external stay.
+
+Reschedule task:
+Wait until next week.
+
+
+Day 233:
+Progress: 84%
+
+The fiber splicing hasn't improved the result. However, you have checked the math again, and you're now more confident that the reason you get 117 peaks instead of 3 is because the mechanical cavity is misaligned compared to the optical one.
+
+Accept task (15 days):
+Spend the next couple of weeks realigning the optical cavity and the quartz crystal inside at the best or your abilities (6/6).
+
+Reschedule task:
+Reschedule the task and check the other tasks for today.
+
+
+Day 248:
+Progress: 85%
+
+It's time for your next lecture.
+
+Accept task (2 days):
+Attend the lecture and study for the course 5/6.
+
+Reschedule task:
+Reschedule the task and check the other tasks for today.
+
+
+Day 250:
+Progress: 86%
+
+Everything is ready for the external stay. Are you ready to leave the country and enjoy this new experience?
+
+Accept task (45 days):
+Let's go! See you all in a few months! I'll send you pictures from the beach.
+
+Reschedule task:
+The Danish weather is not too bad right now... I'll wait next month before leaving.
+
+
+Day 295:
+Progress: 88%
+
+You are back from the holidays, and you're about to test the improved setup.
+
+Accept task (3 days):
+Start the cooldown to test the new alignment of the cavity.
+
+Reschedule task:
+Reschedule the task and check the other tasks for today.
+
+
+Day 298:
 Progress: 89%
 
 It's time for your next lecture.
@@ -1064,67 +1148,43 @@ Reschedule task:
 Skip the class.
 
 
-Day 222:
+Day 300:
 Progress: 90%
 
-Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+You're about to take the measurement with the improved setup, but you realize that the spectrum analyzer is not working properly.
 
-Accept task (2 days):
-"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
-
-Reschedule task (2 days):
-Stress about the meeting.
-
-
-Day 224:
-Progress: 90%
-
-You started the planning for the external stay, but there is still a lot to do... Convince your supervisor, contact the foreign university, organize the travel and accomodation, apply for some external grants, get to know the hosting research group,...
-
-Accept task (7 days):
-Yeah, it's probably time to take a break from my research project and focus on organizing my external stay.
+Accept task (1 days):
+No problem, I'll debug the issue!
 
 Reschedule task:
-Wait until next week.
+Japan was really nice! I'm really missing it.
 
 
-Day 231:
+Day 301:
 Progress: 92%
 
-Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+Today is a good day. The sun is shining, and the ocean temperature is perfect for a swimmming. You don't have much to do in the office, so why not taking some time off?
 
-Accept task (7 days):
-"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
+Accept task (3 days):
+Enjoy life.
 
-Reschedule task (7 days):
-Stress about the meeting.
+Reschedule task (3 days):
+Enjoy life.
 
 
-Day 238:
+Day 304:
 Progress: 92%
 
-Everything is ready for the external stay. Are you ready to leave the country and enjoy this new experience?
+After testing different things, you figured out that there was a power outage during the last week, and the PLL module of the spectrum analyzer is burned.
 
-Accept task (45 days):
-Let's go! See you all in a few months! I'll send you pictures from the beach.
+Accept task (1 days):
+I'll contact the company to ask for a quote for the repair, but I already know it's gonna be expensive since the module is 40,000kr.
 
 Reschedule task:
-The Danish weather is not too bad right now... I'll wait next month before leaving.
+Japan was really really nice! I'm really really missing it.
 
 
-Day 283:
-Progress: 93%
-
-You have a day off. Enjoy it!
-
-Accept task (30 days):
-Wait, what happened? Are you serious?
-
-Reschedule task (30 days):
-Yes! Finally!
-
-
-Day 313:
+Day 305:
 Progress: 93%
 
 It's already been a while since you started your PhD, and it's finally time for the Gordon Research Conference (California) you are planning to attend.
@@ -1136,20 +1196,32 @@ Reschedule task:
 The conference is coming, but I still don't have any results to present.
 
 
-Day 315:
-Progress: 95%
+Day 307:
+Progress: 94%
 
-Every project meeting day is a good day. Have you prepared your last results for Ulrik or do you need to spend the weekend in the lab?
+You have a day off. Enjoy it!
 
-Accept task (2 days):
-"Ulrik is a nice guy, he will understand." (ChatGPT, 2024)
+Accept task (1 days):
+Wait, what happened? Are you serious?
 
-Reschedule task (2 days):
-Stress about the meeting.
+Reschedule task (1 days):
+Yes! Finally!
 
 
-Day 317:
-Progress: 95%
+Day 308:
+Progress: 94%
+
+While you were waiting for the company, you found that Nitin has the same device. It's planning to change it, so you can take it for yuor experiment. To be continued...
+
+Accept task (1 days):
+???
+
+Reschedule task:
+???
+
+
+Day 309:
+Progress: 96%
 
 During the next conference you're planning to present your ground-breaking results. Now, it's time to work on a nice poster to bring with you.
 
@@ -1160,8 +1232,8 @@ Reschedule task:
 I never prepared a poster before. I don't have time to learn how to do it now.
 
 
-Day 324:
-Progress: 96%
+Day 316:
+Progress: 97%
 
 The conference is coming up. Are you ready?
 
@@ -1172,7 +1244,7 @@ Reschedule task:
 Wait until next week.
 
 
-Day 331:
+Day 323:
 Progress: 98%
 
 You're back from the conference and you absolutely need to show your supervisor what you learned. Well, of course, after preparing your Fusion report.
@@ -1184,11 +1256,11 @@ Reschedule task:
 "Fusion again?! Haven't I suffered enough?" (ChatGPT, 2024)
 
 
-Day 335:
+Day 327:
 Progress: 100%
 
 You have finished your PhD!
-You have worked for 189/335 days.
+You have worked for 248/327 days.
 You have completed all the project tasks!
 You have completed all the courses!
 You have completed all the PhD mandatory tasks!

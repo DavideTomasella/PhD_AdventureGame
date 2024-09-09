@@ -1,201 +1,290 @@
 [
     {
         "group": "Scroll",
-        "text": "The fridge is broken",
-        "option1": "Wait for next week",
-        "option2": "Look for the problem",
+        "text": "The setup you're working on during your PhD is centered around a dilution refrigerator. This is a quite complex system that is around in QPIT since 7+ years ago. Your goal for the next months is to use this setup to characterize and manipulate the otomechanical respose of a quartz crystal. However, two weeks before the start of your PhD, the fridge stopped working.",
+        "option1": "Oh no, am I still in time to give up and change topic? Maybe I should come back in a few months...",
+        "option2": "I'm not getting demotivated by these small hiccups. I'll immediately try to understand what's going on.",
         "duration": 3,
         "wait1": 7,
         "wait2": 0
     },
     {
         "group": "Scroll",
-        "text": "You have found the problem: the scroll is broken",
-        "option1": "Wait for next week",
-        "option2": "Contact Bluefors",
-        "duration": 1,
+        "text": "While you where studing the manuals and testing checking the logs of the last cooldown, you discovered that the dilution fridge hasn't been maintained since 2020 when a colleague left. It isn't a great news, and it's probably the reason for the failure.",
+        "option1": "Wait for next week, and try to understand better what's going on and who was in charge of the maintenance.",
+        "option2": "Contact Bluefors (the company who sold the fridge) and ask for directions about how to debug the system.",
+        "duration": 2,
         "wait1": 7,
         "wait2": 2
     },
     {
         "group": "Scroll",
-        "text": "Bluefors has answered: they need more information",
-        "option1": "Wait for next week",
-        "option2": "Send the information",
-        "duration": 1,
+        "text": "After several emails with Bluefors, they have figured out that there's a partial breakdown with the scroll pump. It cannot reach the nominal compression rate, and thus the low-pressure turbo pump cannot start operating to create vacuum in the chamber.",
+        "option1": "I haven't understood anything about what's going on. Can someone explain me what's a scroll pump?",
+        "option2": "It seems like I have to self-teach how to become a mechanical technician. Spend some time checking the procedure in the maintenance manual of the fridge.",
+        "duration": 2,
         "wait1": 7,
         "wait2": 0
     },
     {
         "group": "Scroll",
-        "text": "Bluefors has answered: you need to remove the scroll and do the mainteneance",
-        "option1": "Wait for next week",
-        "option2": "Check the manual for the procedure",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "Scroll",
-        "text": "You need to order the maintenance kit for the scroll",
-        "option1": "Wait for next week",
-        "option2": "Buy and wait for it to arrive",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 15
-    },
-    {
-        "group": "Scroll",
-        "text": "The maintenance kit has arrived",
-        "option1": "Wait for next week",
-        "option2": "Remove the scroll",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "Scroll",
-        "text": "While you where removing the scroll, you found a lot of powder",
-        "option1": "Wait for next week",
-        "option2": "Check and remove the filter",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "Scroll",
-        "text": "You have removed the filter and the pump",
-        "option1": "Wait for next week",
-        "option2": "Clean the filter and the pump",
-        "duration": 7,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "Scroll",
-        "text": "The filter must be changed",
-        "option1": "Wait for next week",
-        "option2": "Search for the right filter",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "Scroll",
-        "text": "You couldn't find the correct filter: contact Bluefors and ask for help",
-        "option1": "Wait for next week",
-        "option2": "Contact Bluefors",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 2
-    },
-    {
-        "group": "Scroll",
-        "text": "Bluefors has answered: you can sell you the right filter",
-        "option1": "Wait for next week",
-        "option2": "Ask for the quote",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 4
-    },
-    {
-        "group": "Scroll",
-        "text": "You have received the quote",
-        "option1": "Wait for next week",
-        "option2": "Agree with Ulrik and buy the filter",
+        "text": "You're finally confident about what is the problem with the fridge and how to solve it! Now you need to order the maintenance kit for the scroll pump.",
+        "option1": "Wait for next week.",
+        "option2": "Tell the great news to Ulrik, contact Bluefors, buy the kit, and wait for it to arrive.",
         "duration": 1,
         "wait1": 7,
         "wait2": 10
     },
     {
         "group": "Scroll",
-        "text": "The filter has arrived",
-        "option1": "Wait for next week",
-        "option2": "Finish cleaning the scrool and install the filter",
+        "text": "The maintenance kit for the scroll pump has finally arrived. Now, you can start the maintenence of the fridge.",
+        "option1": "I need to ask someone to help me because I cannot move a 40-kg pump from that cramped space.",
+        "option2": "Check that all the gas has been placed back into the proper cylinder, disconnect the piping, and remove the scroll.",
         "duration": 1,
         "wait1": 7,
         "wait2": 0
     },
     {
         "group": "Scroll",
-        "text": "The scroll and the filter are ready",
-        "option1": "Wait for next week",
-        "option2": "Reassemble the circuit",
+        "text": "Oh no, while you where removing the scroll pump, you found a lot of powder with unknown origin that it's dropping form the piping and dirting all the room. [insert picture with a lot of black powder]",
+        "option1": "I cannot cope with that right now...",
+        "option2": "It seems that the powders comes from the filter next to the pump - remove it too, and try to understand what happened.",
         "duration": 1,
         "wait1": 7,
         "wait2": 0
     },
     {
         "group": "Scroll",
-        "text": "Everything is back in place",
-        "option1": "Wait for next week",
-        "option2": "Ask Brian(?) to borrow the leak detector",
+        "text": "You have removed the filter and the pump. The black powder comes from the degradeted tip seal of the scroll pump - it should have been changed 4 years ago... Now, you need ",
+        "option1": "Try to convince Ulrik to buy a new pump (62.710,19 kr).",
+        "option2": "Spend the next week cleaning the scroll and the filter with some paper towels and cutton buds (200 kr). You cannot use solvents or other chemical otherwise you'll introduce impurities in the Helium-3 mixuture.",
+        "duration": 7,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "After some efforts and several podcasts, the scroll is finally cleaned. The filter however needs to be changed.",
+        "option1": "Try to look online for the right filter.",
+        "option2": "Contact Bluefors for ordering a new filter (note: their support team is really slow in answering, so it's gonna take some time).",
         "duration": 1,
+        "wait1": 3,
+        "wait2": 7
+    },
+    {
+        "group": "Scroll",
+        "text": "After one week, you finally received a quote from BlueforsYou have received the quote",
+        "option1": "Wait the next meeting with Ulrik before buying the filter.",
+        "option2": "Immediately accept the quote to speed up the process, and wait for the filter to arrive.",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "Scroll",
+        "text": "The filter for the dilution fridge has arrived.",
+        "option1": "Wait to have some free time to install the filter.",
+        "option2": "Finish cleaning the scroll pump, install the filter, and reassemble the system.",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 0
+    },
+    {
+        "group": "Scroll",
+        "text": "You finish assembling back all the components. Now, you have to check that everything is working and leak-free. You don't want to lose the really expensive Helium-3 mixture, do you?",
+        "option1": "Wait for next week.",
+        "option2": "Ask Brian to borrow the leak detector and check all the fittings.",
+        "duration": 2,
         "wait1": 7,
         "wait2": 2
     },
     {
         "group": "Scroll",
-        "text": "Brian aswered: he can borrow you the leak detector",
-        "option1": "Wait for next week",
-        "option2": "Fix the day and check for leaks",
-        "duration": 1,
-        "wait1": 7,
-        "wait2": 0
-    },
-    {
-        "group": "Scroll",
-        "text": "The system is fine again. Everything is ready for the next cooldown",
-        "option1": "Wait for next week",
-        "option2": "Start the cooldown",
+        "text": "The system is fine again. Everything is ready for the next cooldown and for taking some measurements. It's finally time to start working on your project!",
+        "option1": "Wait for being in the right mood.",
+        "option2": "Start the cooldown over the weekend since it's gonna take 50 hours and you can keep monitoring the system from home.",
         "duration": 1,
         "wait1": 7,
         "wait2": 3
     },
-    
     {
-        "group": "Valve",
-        "text": "The valve is broken",
-        "option1": "Wait for next week",
-        "option2": "Contact Bluefors",
-        "duration": 1,
+        "group": "Compressor",
+        "text": "Something went wrong during the last cooldown. Instead of reaching 20mK, the temperature of the fridge stopped at 4.3K. You're pretty sure that your repair was fine, you need to investigate the problem.",
+        "option1": "I come from the future! I already know that the gas pressure in the compressor circuit is too low.",
+        "option2": "Contact Bluefors, send them all the log files, and wait for thei help.",
+        "duration": 2,
         "wait1": 7,
         "wait2": 2
     },
     {
-        "group": "Valve",
-        "text": "Bluefors has answered",
-        "option1": "Wait for next week",
-        "option2": "Look for a new valve",
+        "group": "Compressor",
+        "text": "You received news from Bluefors. They believe that the compressor leaked some gas (after 7 years, it isn't a surprise). For this reason, the 4K stage reaches only 4.3K instead of 3.8K. And the Helium dilution cannot start.",
+        "option1": "I told you!",
+        "option2": "I can still take some measurements at 4.3K, while I'm trying to understand how to recharge the compressor (1/6).",
+        "duration": 2,
+        "wait1": 1,
+        "wait2": 3
+    },
+    {
+        "group": "Compressor",
+        "text": "You are trying to characterize the mechanical response of your cavity. you cannot modify the alignment of the system inside the dilution fridge, so you can only crank up the power and try to make the system laser.",
+        "option1": "Work on something else.",
+        "option2": "Keep looking for the cavity response of the cavity (2/6).",
         "duration": 2,
         "wait1": 7,
-        "wait2": 0
+        "wait2": 3
+    },
+    {
+        "group": "Compressor",
+        "text": "You finally found the correct frequency - you can finally start to characterize the cavity response.",
+        "option1": "Work on something else.",
+        "option2": "Characterize the cavity lasing (3/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 3
+    },
+    {
+        "group": "Compressor",
+        "text": "While you were taking some measurements you realize the settings of the spectrum analyzer are wrong. You need to restart the measurements.",
+        "option1": "The programming manual of the spectrum analyzer is 3332 pages, I never read this much in all my life.",
+        "option2": "Spend the next week studying the spectrum analyzer manual to configure it properly, and retake the last measurements (4/6).",
+        "duration": 7,
+        "wait1": 7,
+        "wait2": 3
+    },
+    {
+        "group": "Compressor",
+        "text": "Ok, now the measurements are correct and you manage to improve the spectral resolution by averaging the spectra, but instead of seeing 3 peaks, you have 3 manifolds of 13 peaks each. Each peak is then composed by 3+ peaks.",
+        "option1": "Well, that's at least something... if everytime I'm asking for 3$, I'm getting 117$...",
+        "option2": "I'll try to measure the power response of the peaks, maybe they are non-linear effects (5/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 3
+    },
+    {
+        "group": "Compressor",
+        "text": "They don't seem to respond to power, but they behave like expected from the mechanical modes. Maybe there is something wrong with the cavity.",
+        "option1": "... if I'm investing 300$ each months, and I'm getting 3900% interest rate... I'll need 6 years to become richer that Elon Musk.",
+        "option2": "Finish the characterization of the modes, so you have something to discuss during the next project meeting (6/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 3
     },
     {
         "group": "Valve",
-        "text": "You have to order the new valve",
-        "option1": "Wait for next week",
-        "option2": "Buy and wait for it to arrive",
+        "text": "It's almost holiday time! You need to warm up the fridge unless you want to spend the next weeks in the office. However, the valve that controls the air flow inside the fridge it's stuck, so you cannot let air inside the canister.",
+        "option1": "Let's contact Bluefors to be sure how to proceed.",
+        "option2": "I'm already an expert! I'll hijack the valve by connecting the pressured line from another valve so at least I can open the fridge.",
+        "duration": 3,
+        "wait1": 3,
+        "wait2": 5
+    },
+    {
+        "group": "Valve",
+        "text": "While you where debugging the volve, you found that the pneumatic actuator is broken - that's the easiest possible senario. You just need to order a new one, and change it.",
+        "option1": "Wait for next week.",
+        "option2": "Buy the new actuator and, and wait for it to arrive",
         "duration": 1,
         "wait1": 7,
         "wait2": 15
     },
     {
         "group": "Valve",
-        "text": "The valve has arrived",
-        "option1": "Wait for next week",
-        "option2": "Install the valve",
+        "text": "The valve actuator is finally arrived.",
+        "option1": "I'm busy these days, I'll wait for next week.",
+        "option2": "Install the actuator and test the valve.",
         "duration": 2,
         "wait1": 7,
         "wait2": 0
     },
     {
-        "group": "Valve",
-        "text": "The system is fine again. Everything is ready for the next cooldown",
-        "option1": "Wait for next week",
-        "option2": "Start the cooldown!",
+        "group": "Alignment",
+        "text": "The system is (almost) fine again. The compressor is still broken, but you can run the fridge at 5K to characterize the cavity.",
+        "option1": "I don't know what it's wrong with my experiment!",
+        "option2": "I have several improvements that I need to work on even if the fridge isn't working properly. I'll spend the next week studying the expected cavity response (1/6).",
+        "duration": 5,
+        "wait1": 7,
+        "wait2": 3
+    },
+    {
+        "group": "Alignment",
+        "text": "You cannot find the problem with the cavity, you can only try to improve the system a bit at a time until you understand it better.",
+        "option1": "\"I'm tired of this.\" (ChatGPT, 2024)",
+        "option2": "Buy some new copper breads to improve the thermal connection between the cavity and the fridge (2/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "Alignment",
+        "text": "The copper breads are finally arrived. Now you can better thermalize the cavity temperature and take lasing measurements without heating the system.",
+        "option1": "\"I'm tired of this.\" (ChatGPT, 2024)",
+        "option2": "Machine some copper plates and aluminum staffs to reduce the vibration coupled inside the cavity (3/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "Alignment",
+        "text": "The new pieces are ready, and you even found some springs to damp the vibrations. However, the noise is still to high to measure at low powers.",
+        "option1": "\"I'm tired of this.\" (ChatGPT, 2024)",
+        "option2": "Resolder the piezos that control the mirror position inside the cavity with thinner wires so they couple less vibration (4/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "Alignment",
+        "text": "Your idea about reducing the vibrations works quite nicely, even if still from ideal. After thermalization and mechanical isolation, you should try to improve the 90% losses of the light before it couples to the cavity.",
+        "option1": "\"I'm tired of this.\" (ChatGPT, 2024)",
+        "option2": "Splice the fiber and monitor the power drop during the next cooldown (5/6).",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 10
+    },
+    {
+        "group": "Alignment",
+        "text": "The fiber splicing hasn't improved the result. However, you have checked the math again, and you're now more confident that the reason you get 117 peaks instead of 3 is because the mechanical cavity is misaligned compared to the optical one.",
+        "option1": "Keep debugging the power loss cause [failure probality 100% since I still don't know which is the problem ;)]",
+        "option2": "Spend the next couple of weeks realigning the optical cavity and the quartz crystal inside at the best or your abilities (6/6).",
+        "duration": 15,
+        "wait1": 7,
+        "wait2": 3
+    },
+    {
+        "group": "Analyzer",
+        "text": "You are back from the holidays, and you're about to test the improved setup.",
+        "option1": "Japan was nice! I'm missing it.",
+        "option2": "Start the cooldown to test the new alignment of the cavity.",
+        "duration": 3,
+        "wait1": 7,
+        "wait2": 1
+    },
+    {
+        "group": "Analyzer",
+        "text": "You're about to take the measurement with the improved setup, but you realize that the spectrum analyzer is not working properly.",
+        "option1": "Japan was really nice! I'm really missing it.",
+        "option2": "No problem, I'll debug the issue!",
         "duration": 1,
         "wait1": 7,
         "wait2": 3
-    }
+    },
+    {
+        "group": "Analyzer",
+        "text": "After testing different things, you figured out that there was a power outage during the last week, and the PLL module of the spectrum analyzer is burned.",
+        "option1": "Japan was really really nice! I'm really really missing it.",
+        "option2": "I'll contact the company to ask for a quote for the repair, but I already know it's gonna be expensive since the module is 40,000kr.",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 1
+    },
+    {
+        "group": "Analyzer",
+        "text": "While you were waiting for the company answer, you found that Nitin has the same device. It's planning to change it, so you can take it for yuor experiment. To be continued...",
+        "option1": "???",
+        "option2": "???",
+        "duration": 1,
+        "wait1": 7,
+        "wait2": 7
+    }   
 ]
