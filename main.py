@@ -49,6 +49,8 @@ class MainUI(QMainWindow):
         if not self.game.is_running:
             self.btn_false.setText("Celebrate!")
             self.btn_true.setText("Celebrate!")
+            self.btn_false.setEnabled(False)
+            self.btn_true.setEnabled(False)
 
     def onClk_false(self):
         self.start_game_and_update_gui()

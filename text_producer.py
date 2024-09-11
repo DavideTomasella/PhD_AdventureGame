@@ -18,7 +18,7 @@ class TextProducer(QObject):
     @text.setter
     def text(self, text):
         self._text = text
-        self.start(interval=int(random.gauss(30,5)))
+        self.start(interval=int(random.gauss(20,5)))
 
     def start(self, interval : int = 1000):
         self.clearText.emit()

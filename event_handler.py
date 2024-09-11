@@ -122,7 +122,7 @@ class EventCourse(EventBase):
         return EventCourse()
     
 class EventPhd(EventBase):
-    _listTasks : list[dict] = json.load(open(resource("./resources/tasksPhd.json")))
+    _listTasks : list[dict] = json.load(open(resource("./resources/tasksPhD.json")))
 
     _progressPhd = 0
 
